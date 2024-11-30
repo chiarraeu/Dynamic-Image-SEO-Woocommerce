@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Alt SEO
+Plugin Name: Alt  Image SEO for Woocommerce
 Description: A lightweight solution for dynamically adding alt & title attributes to woocommerce images.
 Version: 1.0.0
 Plugin URI: 
